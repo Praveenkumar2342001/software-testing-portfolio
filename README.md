@@ -46,4 +46,4 @@ I am a Software Testing fresher with hands-on knowledge in Manual Testing, Test 
 
 ## 📞 Contact
 - Email: Praveenkumarp2342001@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/praveenkumar-p-4535b52a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
